@@ -1,0 +1,6 @@
+FEEDBACK_ID,TOURIST_ID,SITE_ID,RATING,COMMENTS,FEEDBACKDATE
+F1,1,S1,5,"Breathtaking heritage site, loved the architecture!",2025-01-16
+F2,2,S2,4,"Beautiful temple but needs better signage.",2025-02-11
+F3,3,S3,5,"Amazing festival experience with vibrant culture.",2025-01-21
+F4,4,S4,3,"Good adventure spots but limited facilities.",2025-03-06
+F5,5,S5,4,"Temples are stunning, enjoyed the guided tour.",2025-01-26

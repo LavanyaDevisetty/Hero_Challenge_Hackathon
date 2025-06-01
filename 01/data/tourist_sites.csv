@@ -1,0 +1,59 @@
+SITE_ID,SITE_NAME,STATE,CITY,TYPE,ACCESSIBILITY,VISITOR_CAPACITY
+S1,Tirupati Temple,Andhra Pradesh,Tirupati,Monument,"Road, Rail",50000
+S2,Araku Valley,Andhra Pradesh,Araku,Nature Reserve,Road,10000
+S3,Tawang Monastery,Arunachal Pradesh,Tawang,Monument,Road,5000
+S4,Ziro Valley,Arunachal Pradesh,Ziro,Nature Reserve,Road,8000
+S5,Kaziranga National Park,Assam,Golaghat,Nature Reserve,Road,20000
+S6,Kamakhya Temple,Assam,Guwahati,Monument,"Road, Rail",15000
+S7,Mahabodhi Temple,Bihar,Bodh Gaya,Monument,"Road, Rail",30000
+S8,Nalanda Ruins,Bihar,Nalanda,Monument,Road,10000
+S9,Chitrakote Falls,Chhattisgarh,Bastar,Nature Reserve,Road,12000
+S10,Bhoramdeo Temple,Chhattisgarh,Kawardha,Monument,Road,8000
+S11,Basilica of Bom Jesus,Goa,Old Goa,Monument,"Road, Rail",20000
+S12,Dudhsagar Falls,Goa,Mollem,Nature Reserve,Road,15000
+S13,Gir National Park,Gujarat,Junagadh,Nature Reserve,Road,18000
+S14,Rani ki Vav,Gujarat,Patan,Monument,"Road, Rail",10000
+S15,Sultanpur Bird Sanctuary,Haryana,Gurgaon,Nature Reserve,Road,8000
+S16,Kurukshetra,Haryana,Kurukshetra,Monument,"Road, Rail",15000
+S17,Rohtang Pass,Himachal Pradesh,Manali,Nature Reserve,Road,10000
+S18,Hadimba Temple,Himachal Pradesh,Manali,Monument,Road,12000
+S19,Dassam Falls,Jharkhand,Ranchi,Nature Reserve,Road,7000
+S20,Betla National Park,Jharkhand,Latehar,Nature Reserve,Road,9000
+S21,Hampi Heritage Site,Karnataka,Hampi,Monument,"Road, Rail",25000
+S22,Mysore Palace,Karnataka,Mysore,Monument,"Road, Rail",30000
+S23,Backwaters of Alleppey,Kerala,Alleppey,Nature Reserve,Boat,20000
+S24,Athirappilly Falls,Kerala,Thrissur,Nature Reserve,Road,15000
+S25,Khajuraho Temples,Madhya Pradesh,Khajuraho,Monument,"Road, Rail",20000
+S26,Sanchi Stupa,Madhya Pradesh,Sanchi,Monument,Road,10000
+S27,Ajanta Caves,Maharashtra,Aurangabad,Monument,"Road, Rail",15000
+S28,Gateway of India,Maharashtra,Mumbai,Monument,"Road, Rail",50000
+S29,Loktak Lake,Manipur,Moirang,Nature Reserve,Boat,8000
+S30,Kangla Fort,Manipur,Imphal,Monument,Road,6000
+S31,Living Root Bridges,Meghalaya,Cherrapunji,Nature Reserve,Road,5000
+S32,Mawlynnong Village,Meghalaya,Mawlynnong,Nature Reserve,Road,4000
+S33,Vangchhia Waterfall,Mizoram,Champhai,Nature Reserve,Road,3000
+S34,Durtlang Hills,Mizoram,Aizawl,Nature Reserve,Road,4000
+S35,Kohima War Cemetery,Nagaland,Kohima,Monument,Road,5000
+S36,Dzukou Valley,Nagaland,Kohima,Nature Reserve,Road,6000
+S37,Jagannath Temple,Odisha,Puri,Monument,"Road, Rail",40000
+S38,Konark Sun Temple,Odisha,Konark,Monument,"Road, Rail",20000
+S39,Golden Temple,Punjab,Amritsar,Monument,"Road, Rail",100000
+S40,Jallianwala Bagh,Punjab,Amritsar,Monument,Road,15000
+S41,Mehrangarh Fort,Rajasthan,Jodhpur,Monument,Road,25000
+S42,Pushkar Fair,Rajasthan,Pushkar,Festival,Road,20000
+S43,Rumtek Monastery,Sikkim,Gangtok,Monument,Road,8000
+S44,Nathula Pass,Sikkim,Gangtok,Nature Reserve,Road,5000
+S45,Meenakshi Temple,Tamil Nadu,Madurai,Monument,"Road, Rail",30000
+S46,Ooty Hill Station,Tamil Nadu,Ooty,Nature Reserve,"Road, Rail",20000
+S47,Charminar,Telangana,Hyderabad,Monument,"Road, Rail",40000
+S48,Golconda Fort,Telangana,Hyderabad,Monument,Road,20000
+S49,Taj Mahal,Uttar Pradesh,Agra,Monument,"Road, Rail",50000
+S50,Varanasi Ghats,Uttar Pradesh,Varanasi,Monument,"Road, Rail",40000
+S51,Valley of Flowers,Uttarakhand,Chamoli,Nature Reserve,Road,8000
+S52,Haridwar,Uttarakhand,Haridwar,Monument,"Road, Rail",30000
+S53,Victoria Memorial,West Bengal,Kolkata,Monument,"Road, Rail",30000
+S54,Sundarbans National Park,West Bengal,Sundarbans,Nature Reserve,"Road, Boat",15000
+S55,Ujjayanta Palace,Tripura,Agartala,Monument,Road,7000
+S56,Neermahal Palace,Tripura,Melaghar,Monument,"Road, Boat",5000
+S57,Bastar Dussehra,Chhattisgarh,Bastar,Festival,Road,20000
+S58,Goa Carnival,Goa,Panaji,Festival,Road,50000

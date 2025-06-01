@@ -1,0 +1,59 @@
+ART_ID,ART_NAME,REGION,DESCRIPTION,STATUS,STATE
+AF1,Kalamkari,Srikalahasti,"Hand-painted or block-printed textile art depicting mythological narratives.",Active,Andhra Pradesh
+AF2,Kuchipudi Dance Art,Vijayawada,"Paintings inspired by the expressive Kuchipudi dance form.",Declining,Andhra Pradesh
+AF3,Thangka Painting,Tawang,"Buddhist scroll paintings with intricate details.",Active,Arunachal Pradesh
+AF4,Bamboo Weaving,Itanagar,"Intricate baskets and mats woven by tribal communities.",Active,Arunachal Pradesh
+AF5,Assamese Scroll Painting,Majuli,"Depicts mythological themes on long scrolls.",Declining,Assam
+AF6,Sitalpati Mat Weaving,Goalpara,"Mats woven from cane splits, known for their cooling effect.",Active,Assam
+AF7,Madhubani Painting,Mithila,"Intricate geometric patterns depicting rural life and mythology.",Active,Bihar
+AF8,Manjusha Painting,Bhagalpur,"Folk art with snake motifs and vibrant colors.",Declining,Bihar
+AF9,Bell Metal Craft,Bastar,"Metal casting for decorative items and idols.",Active,Chhattisgarh
+AF10,Bastar Wood Carving,Jagdalpur,"Tribal carvings depicting nature and deities.",Active,Chhattisgarh
+AF11,Dekhni Dance Art,Panaji,"Art inspired by the Dekhni folk dance, often depicted in paintings.",Active,Goa
+AF12,Kunbi Weaving,Margao,"Traditional handwoven textiles with geometric patterns.",Declining,Goa
+AF13,Patola Weaving,Patan,"Double ikat weaving with vibrant patterns.",Active,Gujarat
+AF14,Rogan Art,Nirona,"Oil-based fabric painting with intricate designs.",Declining,Gujarat
+AF15,Phulkari Embroidery,Hisar,"Floral embroidery on textiles, shared with Punjab.",Active,Haryana
+AF16,Saang Folk Art,Rohtak,"Paintings inspired by Saang, a folk theatre form.",Declining,Haryana
+AF17,Pahari Painting,Kangra,"Miniature paintings with serene landscapes.",Active,Himachal Pradesh
+AF18,Chamba Rumal,Chamba,"Embroidered handkerchiefs with mythological themes.",Active,Himachal Pradesh
+AF19,Sohrai Painting,Hazaribagh,"Tribal wall art celebrating harvest.",Declining,Jharkhand
+AF20,Jadopatia Painting,Dumka,"Scroll paintings by the Santhal tribe.",Declining,Jharkhand
+AF21,Mysore Painting,Mysore,"Intricate paintings with gold leaf work.",Active,Karnataka
+AF22,Chittara Art,Shivamogga,"Folk art with geometric patterns for rituals.",Active,Karnataka
+AF23,Mural Painting,Thrissur,"Temple wall art with vibrant colors.",Active,Kerala
+AF24,Kathakali Mask Making,Kochi,"Wooden masks for Kathakali dance performances.",Active,Kerala
+AF25,Gond Art,Mandla,"Tribal art with nature-inspired patterns.",Active,Madhya Pradesh
+AF26,Bhil Painting,Jhabua,"Tribal art with dot patterns depicting stories.",Active,Madhya Pradesh
+AF27,Warli Painting,Palghar,"Geometric tribal art depicting daily life.",Active,Maharashtra
+AF28,Paithani Weaving,Aurangabad,"Silk sarees with intricate gold borders.",Active,Maharashtra
+AF29,Manipuri Textile Weaving,Imphal,"Handwoven textiles with cultural motifs.",Active,Manipur
+AF30,Kauna Grass Craft,Thoubal,"Mats and baskets woven from kauna grass.",Active,Manipur
+AF31,Khasi Bamboo Craft,Shillong,"Intricate bamboo weaving for utility items.",Active,Meghalaya
+AF32,Garo Textile Weaving,Tura,"Handwoven textiles with tribal patterns.",Active,Meghalaya
+AF33,Mizo Textile Art,Aizawl,"Handwoven shawls with tribal patterns.",Active,Mizoram
+AF34,Bamboo Dance Props,Lunglei,"Bamboo props for Cheraw dance performances.",Active,Mizoram
+AF35,Naga Wood Carving,Kohima,"Carvings depicting tribal motifs.",Active,Nagaland
+AF36,Naga Beadwork,Dimapur,"Intricate bead jewelry with tribal designs.",Active,Nagaland
+AF37,Pattachitra,Puri,"Cloth-based scroll painting with mythological themes.",Active,Odisha
+AF38,Appliqué Work,Pipli,"Textile art with colorful patchwork for decorations.",Active,Odisha
+AF39,Punjabi Kissa Art,Amritsar,"Paintings depicting folk tales.",Active,Punjab
+AF40,Phulkari Embroidery,Patiala,"Floral embroidery on textiles.",Active,Punjab
+AF41,Phad Painting,Bhilwara,"Traditional scroll painting depicting folk legends.",Active,Rajasthan
+AF42,Miniature Painting,Jaipur,"Detailed paintings of Rajput legends.",Active,Rajasthan
+AF43,Sikkimese Thangka,Gangtok,"Buddhist art with spiritual themes.",Active,Sikkim
+AF44,Handwoven Carpets,Namchi,"Woolen carpets with Buddhist motifs.",Active,Sikkim
+AF45,Tanjore Painting,Thanjavur,"Gold foil paintings of deities.",Active,Tamil Nadu
+AF46,Kolam,Chennai,"Geometric floor art with rice flour.",Active,Tamil Nadu
+AF47,Cheriyal Scroll Painting,Warangal,"Narrative scrolls depicting local stories.",Declining,Telangana
+AF48,Nirmal Painting,Nirmal,"Wooden paintings with gold leaf and natural themes.",Active,Telangana
+AF49,Mughal Miniature,Lucknow,"Court paintings with Persian influence.",Active,Uttar Pradesh
+AF50,Chikankari Embroidery,Lucknow,"Delicate embroidery with Persian influences.",Active,Uttar Pradesh
+AF51,Aipan Art,Almora,"Ritualistic floor art with geometric patterns.",Active,Uttarakhand
+AF52,Garhwali Painting,Pauri,"Folk paintings depicting Himalayan life.",Active,Uttarakhand
+AF53,Patachitra,Kolkata,"Scroll paintings with mythological narratives.",Active,West Bengal
+AF54,Kantha Embroidery,Bolpur,"Stitched quilts with narrative designs.",Active,West Bengal
+AF55,Tripuri Bamboo Art,Agartala,"Bamboo crafts with tribal designs.",Active,Tripura
+AF56,Handwoven Shawls,Dharmanagar,"Textiles with traditional patterns.",Active,Tripura
+AF57,Tholu Bommalata,Tirupati,"Shadow puppet theatre using leather puppets.",Endangered,Andhra Pradesh
+AF58,Bihu Dance Art,Guwahati,"Art inspired by the Bihu dance form.",Active,Assam
